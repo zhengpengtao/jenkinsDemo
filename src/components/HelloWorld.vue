@@ -1,7 +1,7 @@
 <template>
   <div class="wrap">
     <div class="yy-btn">
-      预约
+      预约{{ msg }}
     </div>
   </div>
 </template>
@@ -12,7 +12,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '1'
+      msg: '12'
     }
   }
 }
