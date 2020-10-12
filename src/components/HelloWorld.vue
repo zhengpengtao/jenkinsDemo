@@ -12,7 +12,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '1111111123'
+      msg: '测试下推送'
     }
   }
 }
